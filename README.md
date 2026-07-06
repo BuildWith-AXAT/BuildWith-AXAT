@@ -23,27 +23,60 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,git,github,vscode,linux,sklearn&perline=6"/>
 </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48"/>
 
 ---
 
-## 🚀 Featured Projects
+##  🚀 Building the Future
 
 - 🤖 TriXiE AI Assistant
 - 🏠 House Price Prediction using Linear Regression
-- 🌐 Frontend Web Projects
+- 🌐 🌐 Responsive Web Development Projects
 - 📚 More Machine Learning Projects Coming Soon...
 
 ---
 
 ## 🎯 Currently Learning
 
-- Machine Learning
-- Generative AI (Basics)
-- Cybersecurity (Basics)
-- Java
+🧠 Machine Learning
 
+🤖 Generative AI Fundamentals
+
+🛡️ Cybersecurity Fundamentals
+
+☕ Java Programming
 ---
 
 ## ⚡ Fun Fact
 
 I love reading **Manhwas**, watching **Anime**, exploring new technologies, and solving challenging programming problems.
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=learn-coding-69&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=learn-coding-69&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-coding-69&layout=compact&theme=tokyonight"/>
+</p>
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="www.linkedin.com/in/akshat-pandey-989a382b6">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto: ap87625353@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=learn-coding-69&color=blue)
+
+"The best way to predict the future is to build it."
+
