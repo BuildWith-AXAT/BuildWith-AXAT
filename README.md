@@ -22,8 +22,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,git,github,vscode,linux,sklearn&perline=6"/>
-</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48"/>
+</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48"/>
 
 ---
 
@@ -31,7 +30,7 @@
 
 - 🤖 TriXiE AI Assistant
 - 🏠 House Price Prediction using Linear Regression
-- 🌐 🌐 Responsive Web Development Projects
+- 🌐 Responsive Web Development Projects
 - 📚 More Machine Learning Projects Coming Soon...
 
 ---
