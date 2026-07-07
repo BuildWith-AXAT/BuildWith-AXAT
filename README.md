@@ -54,13 +54,7 @@ I love reading **Manhwas**, watching **Anime**, exploring new technologies, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BuildWith-AXAT&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWith-AXAT&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWith-AXAT&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=BuildWith_AXAT&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
@@ -68,16 +62,12 @@ I love reading **Manhwas**, watching **Anime**, exploring new technologies, and 
 <p align="left">
   <a href="www.linkedin.com/in/akshat-pandey-989a382b6">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ap87625353@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=BuildWith-AXAT&color=blue)
 
 "The best way to predict the future is to build it."
 
